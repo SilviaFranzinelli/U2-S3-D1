@@ -20,4 +20,4 @@ const user1 = new utente("Luca", "Rossi", 34, "Milano");
 
 const otherUser = new utente("Carlotta", "Grassi", 23, "Roma");
 
-console.log("ESERCIZIO 1", user1.compareAge(otherUser));
+console.log(user1.compareAge(otherUser));
